@@ -1,0 +1,39 @@
+{
+        "tasks": [
+            {   "task_id": 1,
+                "title": "Work on the roof",
+                "description": "Roof structure,roof construction, carpentry work",
+                "selected": false
+            },
+            {   "task_id": 2,
+                "title": "Garden Fences",
+                "description": "Construction and assembly of garden fences",
+                "selected": false
+            },
+            {   "task_id": 3,
+                "title": "Paths and Private Property",
+                "description": "Various work on paths and private property",
+                "selected": false
+            },
+            {   "task_id": 4,
+                "title": "Floors",
+                "description": "Work on floors, carpets, parquet and laminate",
+                "selected": false
+            },
+            {   "task_id": 5,
+                "title": "Carport",
+                "description": "Custom build carpots",
+                "selected": false
+            },
+            {   "task_id": 6,
+                "title": "Drywall and Interior",
+                "description": "Drywall and interior work with sheetrock, loft conversion etc",
+                "selected": false
+            },
+            {   "task_id": 7,
+                "title": "Photovoltaic Systems",
+                "description": "Work on setting up photovoltaic system",
+                "selected": false
+            }
+        ]
+}

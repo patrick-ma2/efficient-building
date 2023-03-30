@@ -1,0 +1,727 @@
+{
+  "en": {
+    "label": "English",
+    "headers": {
+      "home": "Startseite"
+    },
+    "splash": {
+      "app_title": "Efficient Buildings",
+      "loadingText": "Loading current information"
+    },
+    "onboarding": {
+      "slides": [
+        {
+          "title": "Get the market value of your house",
+          "description": "Greenhome suggests to install photovoltaic system. Photovoltaic system not only allow you to reduce your carbon footprint and save on energy costs in the long term, but they can also raise the value of a home and make it more appealing to future buyers."
+        },
+        {
+          "title": "Helps your Wallet",
+          "description": "Greenhome suggests energy efficient renovation based on your current house condition. Investing in energy efficient renovations can save you money in the long run by cutting down on your electricity bill. These upgrades to your home can also reduce maintenance costs, increase the resale value of your home, and make your space more comfortable throughout the year."
+        },
+        {
+          "title": "Helps the Environment",
+          "description": "GreenHome will help you plan and execute home improvements that not only improve your experience but also help the environment."
+        },
+        {
+          "title": "Why Sign in?",
+          "description": "GreenHome needs you to sign in to save your projects and to help you keep going from where you left off."
+        }
+      ],
+      "selectLang": "Select Your Language",
+      "next": "Next",
+      "skip": "Skip",
+      "sign_in": "Sign in"
+    },
+    "login_signup": {
+      "login": "Login",
+      "register": "Register",
+      "create_account": "Create account",
+      "email": "Email",
+      "password": "Password",
+      "confirm_password": "Confirm Password"
+    },
+    "new_property": {
+      "title": "New Property",
+      "next": "Next",
+      "back": "Back",
+      "save": "Save",
+      "pages": [
+        {
+          "title": "What type of building corresponds to your house?",
+          "detached": "Detached house",
+          "semi_detached": "Row house",
+          "two_family_house": "Duplex house",
+          "apartment": "Apartment"
+        },
+        {
+          "title": "Please enter the address",
+          "street": "Street, house number",
+          "postcode": "Postcode",
+          "city": "City",
+          "country": "Country"
+        },
+        {
+          "title": "How big is your living area?",
+          "upto": "upto",
+          "above": "above",
+          "manual": "enter manually:"
+        },
+        {
+          "title": "When was the house built?",
+          "manual": "enter manually:"
+        },
+        {
+          "title": "Are you the owner?",
+          "my_house": "yes, it is my house",
+          "not_my_house": "no, it is not my house"
+        },
+        {
+          "title": "Enter a name for the house",
+          "icon_standard": "Standard icon for your house:",
+          "icon_custom": "Or select your own image:"
+        }
+      ]
+    },
+    "home": {
+      "items": [
+        {
+          "title": "Windpark",
+          "subtitle": "Gebiet, Turbinen und Zeitplan",
+          "icon": "icon_windturbine",
+          "link": "/tabs/windpark"
+        },
+        {
+          "title": "Abstimmung",
+          "subtitle": "Meinung und Verbesserungs-vorschläge",
+          "icon": "icon_opinion",
+          "link": "/tabs/engagement"
+        },
+        {
+          "title": "Karte",
+          "subtitle": "Schlagschatten und Schallimmission",
+          "icon": "icon_map",
+          "link": "/tabs/map"
+        },
+        {
+          "title": "Hintergrund",
+          "subtitle": "Häufig gestellte Fragen und Neuigkeiten",
+          "icon": "icon_background",
+          "link": "/tabs/background"
+        },
+        {
+          "title": "3D Ansicht",
+          "subtitle": "Virtuelle Realität in 3D Landschaft",
+          "icon": "icon_3d",
+          "link": "/tabs/visualization"
+        }
+      ],
+      "survey": {
+        "latestSurvey": "Neuste Umfrage",
+        "title": "Windpark Soest",
+        "start": "Jetzt teilnehmen!",
+        "continue": "Mit Umfrage fortfahren",
+        "submitted": "Du hast schon abgestimmt",
+        "evaluated": "Auswertung ist verfügbar",
+        "closed": "Geschlossen"
+      }
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Select your language",
+      "name": "Tell us your name ",
+      "age": "enter your age",
+      "next": "save",
+      "appSettings": {
+        "Info": "My Info",
+        "Appsettings": "App Settings",
+        "About": "About",
+        "Bug": "Bug"
+      }
+    },
+    "appSettings": {
+      "Info": "My Info",
+      "Appsettings": "App Settings",
+      "About": "About",
+      "Bug": "Bug"
+    },
+    "reportBug": {
+      "title": "report a bug",
+      "subject": "Subject*",
+      "email": "E-Mail*",
+      "operatingSystem": "Operating system",
+      "device": "Device",
+      "contact": {
+        "title": "Contact option",
+        "placeholder": "please select",
+        "options": {
+          "contact_me": "contact me",
+          "dont_contact_me": "don't contact me",
+          "email": "E-Mail"
+        }
+      },
+      "bugType": {
+        "title": "type of error",
+        "placeholder": "please select",
+        "options": {
+          "performance": "performance",
+          "crash": "crash",
+          "ui": "UI",
+          "other": "other"
+        }
+      },
+      "description": "description*",
+      "submit": "send"
+    },
+    "myDashboard": {
+      "title": "My Properties",
+      "noProperties": "You don't have any properties yet.",
+      "newHome": "add a house",
+      "headerText": "GreenHome",
+      "addedProperties": "My Properties"
+    },
+    "myHouse": {
+      "title": "Hous No. 1",
+      "address": "street, 1",
+      "date": "01.07.2020"
+    },
+    "myInfo": {
+      "title": "My Info",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "street": "Street",
+      "zip": "Postcode",
+      "houseNumber": "House No.",
+      "phone": "Phone Number",
+      "country": {
+        "title": "Country",
+        "placeholder": "Please select",
+        "options": {
+          "gr": "Germany",
+          "fr": "France",
+          "sp": "Spain"
+        }
+      },
+      "role": {
+        "title": "Role",
+        "placeholder": "Please select",
+        "options": {
+          "house-owner": "Owner",
+          "contractor": "Company"
+        }
+      },
+      "save": "Save"
+    },
+    "about": {
+      "about_title": "About the App",
+      "about_text": "At a suitable location, with a photovoltaic system of the usual size (approx. 50 square meters), you can not only amortize the full costs of the PV system in 20 years, but also save approx. 30% of the electricity costs: Due to the rapidly increasing demand for electricity (especially climate-friendly electricity from the roof), it can be assumed that electricity prices will rise steadily. In addition, there are a variety of national and regional subsidy programs, where up to 10% and more of the purchase costs are subsidized. In addition, the prices for photovoltaic components have been steadily decreasing. The Fraunhofer Institute for Solar Energy Systems calculated in September 2020 a price drop of 24% with a doubling of the total installed capacity continue reading.",
+      "privacy_title": "Privacy",
+      "privacy_text": "Who is responsible for data collection on this website? Data processing on this website is carried out by the website operator. Their contact details can be found in the 'Notice about the responsible party' section of this privacy policy. How do we collect your data? Firstly, your data is collected when you provide it to us. This can be, for example, data that you enter in a contact form, other data is collected automatically or with your consent by our IT systems when you visit the website. This is primarily technical data (e.g. Internet browser, operating system or time of page view). This data is collected automatically as soon as you enter this website. What do we use your data for? Some of the data is collected to ensure the error-free provision of the website. Other data may be used to analyze your user behavior continue reading.",
+      "disclamer_title": "Disclamer",
+      "disclamer_text": "The information contained on this website is for general information purposes only. Although we endeavor to keep the information current and correct, we make no representations or warranties, express or implied, as to the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore solely at your own risk continue reading.",
+      "cookie_title":"Cookie Settings",
+      "cookie_text": "If you are under the age of 16 and wish to give your consent to volunteer services, you must ask your legal guardian for permission. We use cookies and other technologies on our website. Some of them are essential, while others help us to improve this website and your experience. Personal data can be processed (e.g. IP addresses), e.g. B. for personalized ads and content or ad and content measurement. You can find more information about the use of your data in our data protection declaration .Here you will find an overview of all cookies used. You can give your consent to entire categories or have further information displayed and thus only select certain cookies.",
+      "imprint_title": "Imprint",
+      "imprint_text": "RWTH Aachen Universität Templergraben 5552062 Aachen (Straßenanschrift) Telefon: +49 241 801 Intern:+49 24180 13 E-Mail: impressum@rwth-aachen.de Fax: +49 241 80 923 12"
+    },
+    "craftsmen_management": {
+      "title": "Contact Craftsmen",
+      "contractors": "Contractors",
+      "all": "All",
+      "contacted": "Contacted",
+      "hidden": "hidden",
+      "contact": "contact",
+      "chat": "chat",
+      "hide": "hide",
+      "show": "show"
+    },
+    "newPV": {
+      "title": "Photovoltaic System",
+      "orderButton": "Order a PV System",
+      "saveLater": "Save & Continue later",
+      "back": "back",
+      "next": "next",
+      "save": "save",
+      "pages": [
+        {
+          "id": 0,
+          "button": "Start now",
+          "infotext": "Through the individual advice and offers from qualified solar companies, you will learn everything you need to know about photovoltaic costs, profitability, funding and implementation options for your location, your roof and your electricity consumption profile. Experienced photovoltaic providers calculate the solar yield of a PV system at your location. At a suitable location, you can not only recoup the full costs of the PV system over 20 years with a photovoltaic system of the usual size (approx. 50 square meters), you can also save around 30% on electricity costs.Due to the rapidly increasing demand for electricity (in particular climate-friendly electricity from the roof), steadily rising electricity prices can be assumed. In addition, there are a large number of national and regional funding programs in which up to 10% or more of the acquisition costs are subsidised. In addition, the prices for photovoltaic components have fallen steadily. In September 2020, the Fraunhofer Institute for Solar Energy Systems calculated a price drop of 24% if the total installed capacity doubled. And the extension speed increases dynamically. where even up to 10% and more of the acquisition costs are subsidised.In addition, the prices for photovoltaic components have fallen steadily. In September 2020, the Fraunhofer Institute for Solar Energy Systems calculated a price drop of 24% if the total installed capacity doubled. And the extension speed increases dynamically. Conclusion: Photovoltaics is worth it - economically & ecologically! Benefit from the enormous savings potential. Be an active part of the energy transition.",
+          "reasons": [
+            {
+              "label":"A holistic solution",
+              "text": "Electricity, heating, e-mobility all can be covered by the solar energy system."
+            },
+            {
+              "label": "More independence",
+              "text": "You don't have to communicate with electricity providers anymore"
+            },
+            {
+              "label": "Reduce energy Bills",
+              "text": "one photovoltaic system can save around 30% on electricity costs"
+            },
+            {
+              "label": "Tax credits and rebates",
+              "text": "Earn tax credits and rebates for your PV-System"
+            },
+            {
+              "label": "Help the environment",
+              "text": "Solar power systems derive clean, pure energy from sun. Installing solar panel on your home helps combat greehouse gas emissions and reduces our collective dependence on fossil fuel."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title":"Please select the type of roof corresponding to your property",
+          "types": [
+            {
+              "name": "Open gable"
+            },
+            {
+              "name": "Box gable"
+            },
+            {
+              "name": "Hip"
+            },
+            {
+              "name": "Flat"
+            },
+            {
+              "name": "Gambrel"
+            },
+            {
+              "name": "Shed"
+            },
+            {
+              "name": "Dormer"
+            },
+            {
+              "name": "m-shaed"
+            },
+            {
+              "name": "pyramid hip"
+            },
+            {
+              "name": "saltbox"
+            },
+            {
+              "name": "jerkinhead"
+            },
+            {
+              "name": "butterfly"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "What is the slope of your roof?",
+          "exact": "Do you know the exact angle of your roof?",
+          "angle": "angle"
+        },
+        {
+          "id": 3,
+          "side1": "Draw the corners of the 1st roof side",
+          "side2": "Draw the corners of the 2nd roof side",
+          "windows": "Draw roof windows or vents",
+          "chimney": "Draw area of chimney"
+        },
+        {
+          "id": 4,
+          "title": "What is the orientation of the roof?",
+          "north": "north",
+          "east": "east",
+          "south": "south",
+          "west": "west"
+
+        },
+        {
+          "id": 5,
+          "title": "Please select your profile type",
+          "residential": "residential",
+          "commercial": "commercial",
+          "other": "other"
+        },
+        {
+          "id": 6,
+          "number_residents": "Number of residents",
+          "consumption": "Annual energy consumption",
+          "heated": "Water heated by electricity",
+          "upload_profile": "upload Profile"
+        },
+        {
+          "id": 7,
+         "title":"Please select the panel color",
+         "blue": "Blue",
+         "black": "Black"
+        }
+      ]
+    }
+  },
+  "de": {
+    "label": "Deutsch",
+    "headers": {
+      "home": "Startseite"
+    },
+    "splash": {
+      "app_title": "Efficient Buildings",
+      "loadingText": "Laden der aktuellen Informationen"
+    },
+    "onboarding": {
+      "slides": [
+        {
+          "title": "Ermitteln Sie den Marktwert Ihres Hauses",
+          "description": "Greenhome empfiehlt die Installation einer Photovoltaikanlage. Mit einer Photovoltaikanlage können Sie nicht nur Ihren ökologischen Fußabdruck verringern und langfristig Energiekosten sparen, sondern auch den Wert eines Hauses steigern und es für zukünftige Käufer attraktiver machen."
+        },
+        {
+          "title": "Hilft Ihrem Geldbeutel",
+          "description": "Greenhome schlägt Ihnen energieeffiziente Renovierungsmaßnahmen vor, die auf dem aktuellen Zustand Ihres Hauses basieren. Durch Investitionen in energieeffiziente Renovierungen können Sie auf lange Sicht Geld sparen, indem Sie Ihre Stromrechnung senken. Diese Modernisierungen Ihres Hauses können auch die Wartungskosten senken, den Wiederverkaufswert Ihres Hauses erhöhen und dafür sorgen, dass Sie sich das ganze Jahr über in Ihrem Haus wohlfühlen."
+        },
+        {
+          "title": "Hilft der Umwelt",
+          "description": "GreenHome hilft Ihnen bei der Planung und Durchführung von Verbesserungen an Ihrem Haus, die nicht nur Ihre Lebensqualität verbessern, sondern auch die Umwelt schonen."
+        },
+        {
+          "title": "Warum anmelden?",
+          "description": "Bei GreenHome müssen Sie sich anmelden, um Ihre Projekte zu speichern und damit Sie dort weitermachen können, wo Sie aufgehört haben."
+        }
+      ],
+      "selectLang": "Wählen Sie Ihre Sprache",
+      "next": "Weiter",
+      "skip": "Überspringen",
+      "sign_in": "Anmelden"
+    },
+    "login_signup": {
+      "login": "Anmelden",
+      "register": "Registrieren",
+      "create_account": "Konto erstellen",
+      "email": "Email",
+      "password": "Passwort",
+      "confirm_password": "Passwort wiederholen"
+    },
+    "new_property": {
+      
+      "title": "Neues Haus",
+      "next": "Weiter",
+      "back": "Zurück",
+      "save": "Speichern",
+      "pages": [
+        {
+          "title": "Welcher Gebäudetyp entspricht Ihrem Haus?",
+          "detached": "freistehendes Haus",
+          "semi_detached": "Reihenhaus",
+          "two_family_house": "Zweifamilienhaus",
+          "apartment": "Wohnung"
+        },
+        {
+          "title": "Bitte geben Sie die Adresse ein",
+          "street": "Straße, Hausnummer",
+          "postcode": "PLZ",
+          "city": "Stadt",
+          "country": "Land"
+        },
+        {
+          "title": "Wie groß ist Ihr Wohnbereich?",
+          "upto": "bis",
+          "above": "mehr als",
+          "manual": "manuelle Eingabe:"
+        },
+        {
+          "title": "Wann wurde das Haus gebaut?",
+          "manual": "manuelle Eingabe:"
+        },
+        {
+          "title": "Sind Sie der Eigentümer?",
+          "my_house": "Mein Haus",
+          "not_my_house": "Nicht mein Haus"
+        },
+        {
+          "title": "Geben Sie dem Haus einen Namen:",
+          "icon_standard": "Standard Icon für Ihr Haus:",
+          "icon_custom": "Oder wählen Sie ein eigenes Bild aus:"
+        }
+      ]
+    },
+    "home": {
+      "items": [
+        {
+          "title": "Windpark",
+          "subtitle": "Gebiet, Turbinen und Zeitplan",
+          "icon": "icon_windturbine",
+          "link": "/tabs/windpark"
+        },
+        {
+          "title": "Abstimmung",
+          "subtitle": "Meinung und Verbesserungs-vorschläge",
+          "icon": "icon_opinion",
+          "link": "/tabs/engagement"
+        },
+        {
+          "title": "Karte",
+          "subtitle": "Schlagschatten und Schallimmission",
+          "icon": "icon_map",
+          "link": "/tabs/map"
+        },
+        {
+          "title": "Hintergrund",
+          "subtitle": "Häufig gestellte Fragen und Neuigkeiten",
+          "icon": "icon_background",
+          "link": "/tabs/background"
+        },
+        {
+          "title": "3D Ansicht",
+          "subtitle": "Virtuelle Realität in 3D Landschaft",
+          "icon": "icon_3d",
+          "link": "/tabs/visualization"
+        }
+      ],
+      "survey": {
+        "latestSurvey": "Neuste Umfrage",
+        "title": "Windpark Soest",
+        "start": "Jetzt teilnehmen!",
+        "continue": "Mit Umfrage fortfahren",
+        "submitted": "Du hast schon abgestimmt",
+        "evaluated": "Auswertung ist verfügbar",
+        "closed": "Geschlossen"
+      }
+    },
+    "settings": {
+      "title": "Einstellungen",
+      "language": "Wähle deine Sprache",
+      "name": "Nenn uns deinen Namen ",
+      "age": "Gib dein Alter an ",
+      "next": "Speichern",
+      "appSettings": {
+        "Info": "My Info",
+        "Appsettings": "App Settings",
+        "About": "About",
+        "Bug": "Bug",
+        "LogOut": "Log out"
+      }
+    },
+    "appSettings": {
+      "Info": "My Info",
+      "Appsettings": "App Settings",
+      "About": "About",
+      "Bug": "Bug",
+      "LogOut": "Log Out"
+    },
+    "reportBug": {
+      "title": "Fehler melden",
+      "subject": "Betreff*",
+      "email": "E-Mail*",
+      "operatingSystem": "Betriebssystem",
+      "device": "Gerät",
+      "contact": {
+        "title": "Kontaktmöglichkeit",
+        "placeholder": "Bitte auswählen",
+        "options": {
+          "contact_me": "Kontaktiere mich",
+          "dont_contact_me": "Kontaktiere mich nicht",
+          "email": "E-Mail"
+        }
+      },
+      "bugType": {
+        "title": "Fehlertyp",
+        "placeholder": "Bitte auswählen",
+        "options": {
+          "performance": "Performance",
+          "crash": "Absturz",
+          "ui": "UI",
+          "other": "Andere"
+        }
+      },
+      "description": "Beschreibung*",
+      "submit": "Absenden"
+    },
+    "CraftsmanInfo": {
+      "title": "Private Property",
+      "property_address": "Ottostr. 50",
+      "property_date": "01.07.2022",
+      "craftsman_name": "Haubrich GmbH",
+      "craftsman_address": "54312 Greimerath"
+    },
+    "myDashboard": {
+      "title": "Meine Grundstücke",
+      "noProperties": "Sie haben noch keine Grundstücke.",
+      "newHome": "Haus hinzufügen",
+      "headerText": "GreenHome",
+      "addedProperties": "Meine Grunstücke"
+    },
+    "myHouse": {
+      "title": "Haus Nummer 1",
+      "address": "Adressestr. 1",
+      "date": "01.07.2020"
+    },
+    "myInfo": {
+      "title": "Meine Information",
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "Email",
+      "street": "Strasse",
+      "zip": "ZIP",
+      "houseNumber": "Haus Nummer",
+      "phone": "Handynummer",
+      "country": {
+        "title": "Land",
+        "placeholder": "Bitte auswählen",
+        "options": {
+          "gr": "Deutschland",
+          "fr": "Frankreich",
+          "sp": "Spanien"
+        }
+      },
+      "role": {
+        "title": "Rolle",
+        "placeholder": "Bitte auswählen",
+        "options": {
+          "house-owner": "Hausbesitzer",
+          "contractor": "Firma"
+        }
+      },
+      "save": "Speichern"
+    },
+    "about": {
+      "about_title": "Über die App",
+      "about_text": "An einem geeigneten Standort können Sie mit einer Photovoltaikanlage der üblichen Größe (ca. 50 Quadratmeter) in 20 Jahren nicht nur die Vollkosten der PV-Anlage amortisieren, sondern auch ca. 30 % der Stromkosten einsparen: Aufgrund des rasant steigenden Strombedarfs (insbesondere klimafreundlicher Strom vom Dach) ist von stetig steigenden Strompreisen auszugehen. Darüber hinaus gibt es eine Vielzahl von nationalen und regionalen Förderprogrammen, bei denen bis zu 10% und mehr der Anschaffungskosten bezuschusst werden. Darüber hinaus sind die Preise für Photovoltaik-Komponenten stetig gesunken. Das Fraunhofer-Institut für Solare Energiesysteme errechnete im September 2020 einen Preisverfall von 24% bei einer Verdoppelung der installierten Gesamtleistung continue reading der installierten Gesamtleistung.",
+      "privacy_title": "Privatsphäre",
+      "privacy_text": "Wer ist für die Datenerfassung auf dieser Website verantwortlich? Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Deren Kontaktdaten finden Sie im Abschnitt 'Hinweis auf die verantwortliche Stelle' in dieser Datenschutzerklärung. Wie erheben wir Ihre Daten? Zum einen werden Ihre Daten erhoben, wenn Sie uns diese mitteilen. Dies können z. B. Daten sein, die Sie in ein Kontaktformular eingeben, andere Daten werden automatisch oder mit Ihrer Zustimmung von unseren IT-Systemen erfasst, wenn Sie die Website besuchen. Dabei handelt es sich in erster Linie um technische Daten (z. B. Internet-Browser, Betriebssystem oder Zeitpunkt des Seitenaufrufs). Diese Daten werden automatisch erfasst, sobald Sie diese Website betreten. Wozu verwenden wir Ihre Daten? Ein Teil der Daten wird erhoben, um die fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können verwendet werden, um Ihr Nutzerverhalten continue reading analysieren.",
+      "disclamer_title": "Hinweis",
+      "disclamer_text": "Die auf dieser Website enthaltenen Informationen dienen nur zu allgemeinen Informationszwecken. Obwohl wir uns bemühen, die Informationen aktuell und korrekt zu halten, geben wir keine ausdrücklichen oder stillschweigenden Zusicherungen oder Gewährleistungen hinsichtlich der Vollständigkeit, Genauigkeit, Zuverlässigkeit, Eignung oder Verfügbarkeit in Bezug auf die Website oder die auf der Website enthaltenen Informationen, Produkte, Dienstleistungen oder zugehörigen Grafiken für irgendeinen Zweck. Jedes Vertrauen, das Sie auf diese Informationen setzen, geschieht daher ausschließlich auf Ihr eigenes Risiko continue reading.",
+      "cookie_title":"Cookie Einstellungen",
+      "cookie_text": "Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu einem Freiwilligendienst geben möchten, müssen Sie Ihren Erziehungsberechtigten um Erlaubnis bitten. Wir verwenden Cookies und andere Technologien auf unserer Website. Einige davon sind unerlässlich, während andere uns helfen, diese Website und Ihre Erfahrungen zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Werbung und Inhalte oder zur Messung von Werbung und Inhalten. Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer Datenschutzerklärung .Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Zustimmung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.",
+      "imprint_title": "Impressum",
+      "imprint_text": "RWTH Aachen Universität Templergraben 5552062 Aachen (Straßenanschrift) Telefon: +49 241 801 Intern:+49 24180 13 E-Mail: impressum@rwth-aachen.de Fax: +49 241 80 923 12"
+    },
+    "craftsmen_management": {
+      "title": "Handwerker kontaktieren",
+      "contractors": "Auftragsnehmer",
+      "all": "Alle",
+      "contacted": "kontaktiert",
+      "hidden": "versteckt",
+      "contact": "kontaktieren",
+      "chat": "anschreiben",
+      "hide": "verstecken",
+      "show": "zeigen"
+    },
+    "newPV": {
+      "title": "Solaranlage",
+      "orderButton": "Anlage bestellen",
+      "saveLater": "später weitermachen",
+      "back": "zurück",
+      "next": "weiter",
+      "save": "speichern",
+      "pages": [
+        {
+          "id": 0,
+          "button": "Jetzt loslegen",
+          "infotext": "Durch die individuelle Beratung und Angebote von qualifizierten Solarunternehmen erfahren Sie alles Wissenswerte über Photovoltaikkosten, Rentabilität, Förder- und Umsetzungsmöglichkeiten für Ihren Standort, Ihr Dach und Ihr Stromverbrauchsprofil. Erfahrene Photovoltaikanbieter berechnen den Solarertrag einer PV-Anlage an Ihrem Standort. An einem geeigneten Standort können Sie mit einer Photovoltaikanlage in üblicher Größe (ca. 50 qm) nicht nur die vollen Kosten der PV-Anlage über 20 Jahre amortisieren, sondern auch rund 30 % der Stromkosten einsparen stark steigender Strombedarf (insbesondere klimafreundlicher Strom vom Dach), ist von stetig steigenden Strompreisen auszugehen. Darüber hinaus gibt es eine Vielzahl nationaler und regionaler Förderprogramme, bei denen bis zu 10 % oder mehr der Anschaffungskosten bezuschusst werden. Zudem sind die Preise für Photovoltaikkomponenten stetig gefallen. Im September 2020 errechnete das Fraunhofer-Institut für Solare Energiesysteme einen Preisrückgang von 24 % bei einer Verdopplung der installierten Gesamtleistung. Und die Ausfahrgeschwindigkeit steigt dynamisch an. wo sogar bis zu 10 % und mehr der Anschaffungskosten bezuschusst werden. Zudem sind die Preise für Photovoltaikkomponenten stetig gesunken. Im September 2020 errechnete das Fraunhofer-Institut für Solare Energiesysteme einen Preisrückgang von 24 % bei einer Verdopplung der installierten Gesamtleistung. Und die Ausfahrgeschwindigkeit steigt dynamisch an. Fazit: Photovoltaik lohnt sich – ökonomisch & ökologisch! Profitieren Sie vom enormen Einsparpotenzial. Seien Sie ein aktiver Teil der Energiewende.",
+          "reasons": [
+            {
+              "label":"Eine ganzheitliche Lösung",
+              "text": "Elektrizität, Wärme, e-Mobilität können alle durch die PV-Anlage versorgt werden."
+            },
+            {
+              "label": "Mehr Eigenständigkeit",
+              "text": "Sie müssen sich nicht mehr mit Ihrem Stromversorger auseinandersetzen"
+            },
+            {
+              "label": "Energiekosten einsparen",
+              "text": "Eine PV-Anlage kann Ihre Stromrechnung circa 30% verringern "
+            },{
+              "label": "Steuergutschriften und Rabatte",
+              "text": "Verdienen Sie Steuergutschriften und Rabatte für Ihre PV-Anlage"
+            },
+            {
+              "label": "Helfen Sie der Umwelt",
+              "text": "Solarstromsysteme gewinnen saubere, reine Energie aus der Sonne. Die Installation von Solarmodulen bei Ihnen zu Hause hilft bei der Bekämpfung von Treibhausgasemissionen und verringert unsere kollektive Abhängigkeit von fossilen Brennstoffen."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title":"Bitte wählen Sie die Art des Daches aus, die Ihrem Haus entspricht",
+          "types": [
+            {
+              "name": "offener Giebel"
+            },
+            {
+              "name": "box Giebel"
+            },
+            {
+              "name": "Satteldach"
+            },
+            {
+              "name": "flach"
+            },
+            {
+              "name": "Mansarddach"
+            },
+            {
+              "name": "Schuppen"
+            },
+            {
+              "name": "Dachgaube"
+            },
+            {
+              "name": "m-förmig"
+            },
+            {
+              "name": "pyramidenartig"
+            },
+            {
+              "name": "Salxboxdach"
+            },
+            {
+              "name": "abgewinkeltes Ende"
+            },
+            {
+              "name": "Schmetterling"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Wie ist die Neigung Ihres Daches?",
+          "exact": "Kennen Sie den genauen Winkel Ihres Daches?",
+          "angle": "Winkel:"
+        },
+        {
+          "id": 3,
+          "side1": "Zeichnen Sie die Ecken der 1. Dachseite ein",
+          "side2": "Zeichnen Sie die Ecken der 2. Dachseite ein",
+          "windows": "Zeichen Sie die Dachfenster oder Lüftungsöffnungen ein",
+          "chimney": "Zeichnen Sie den Kamin ein"
+        },
+        {
+          "id": 4,
+          "title": "Wie ist die Ausrichtung des Daches?",
+          "north": "Nord",
+          "east": "Ost",
+          "south": "Süd",
+          "west": "West"
+
+        },
+        {
+          "id": 5,
+          "title": "Bitte wählen Sie Ihren Profiltyp",
+          "residential": "Wohnhaus",
+          "commercial": "Gewerblich",
+          "other": "Sonstige"
+        },
+        {
+          "id": 6,
+          "number_residents": "Anzahl der Bewohner",
+          "consumption": "Jährlicher Energieverbrauch",
+          "heated": "Wasser elektrisch erhitzt?",
+          "upload_profile": "Profil hochladen"
+        },
+        {
+          "id": 7,
+         "title":"Bitte wählen Sie die Farbe der Paneels",
+         "blue": "Blau",
+         "black": "Schwarz"
+        }      ]
+    }
+  }
+}
+

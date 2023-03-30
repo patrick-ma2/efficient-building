@@ -1,0 +1,18 @@
+{
+    
+    "house": {
+        "items": [
+            
+        ]
+    },
+    "charts": {
+        "items": [
+          {
+                "id": 0,
+                "color": "#324a32",
+                "completedSteps": 70,
+                "totalSteps": 100
+          }
+        ]
+      }  
+}

@@ -1,0 +1,190 @@
+{
+    "pageFive": {
+        "items": [
+            {
+                "id": 0,
+                "label": "Batterie-Effizienz",
+                "value": 5,
+                "unit": "%"
+            },
+            {
+                "id": 1,
+                "label": "Stromwandler-Effizienz",
+                "value": 5,
+                "unit": "%"
+            },
+            {
+                "id": 2,
+                "label": "min. Batterieladung",
+                "value": 5,
+                "unit": "%"
+            },
+            {
+                "id": 3,
+                "label": "max. Batterieladung",
+                "value": 5,
+                "unit": "%"
+            },
+            {
+                "id": 4,
+                "label": "Panel Lebensdauer",
+                "value": 5,
+                "unit": "Jahre"
+            },
+            {
+                "id": 5,
+                "label": "Schattenverluste",
+                "value": 5,
+                "unit": "Meter"
+            },
+            {
+                "id": 6,
+                "label": "Root offset",
+                "value": 5,
+                "unit": "Meter"
+            }
+        ]
+    },
+    "pageSix": {
+        "items": [
+            {
+                "id": 0,
+                "type": "category",
+                "label": "Operation & Maintenance"
+            },
+            {
+                "id": 1,
+                "type": "item",
+                "label": "Share of Annual O&M cost",
+                "value": 5,
+                "unit": "%"
+            },
+            {
+                "id": 2,
+                "type": "item",
+                "label": "Absolute Annual O&M cost",
+                "value": 5,
+                "unit": "€"
+            },
+            {
+                "id": 3,
+                "type": "category",
+                "label": "Inflation and Discount rate"
+            },
+            {
+                "id": 4,
+                "type": "item",
+                "label": "Inflation rate",
+                "value": 5,
+                "unit": "%"
+            },
+            {
+                "id": 5,
+                "type": "item",
+                "label": "Discount rate of PV",
+                "value": 5,
+                "unit": "%"
+            },
+            {
+                "id": 6,
+                "type": "category",
+                "label": "Inflation and Discount rate"
+            },
+            {
+                "id": 7,
+                "type": "item",
+                "label": "Battery cost per 1kWh",
+                "value": 5,
+                "unit": "€"
+            },
+            {
+                "id": 8,
+                "type": "item",
+                "label": "Additional cost",
+                "value": 5,
+                "unit": "€"
+            },
+            {
+                "id": 9,
+                "type": "item",
+                "label": "Electricity rate",
+                "value": 5,
+                "unit": "ct/kWh"
+            },
+            {
+                "id": 10,
+                "type": "item",
+                "label": "Increase in electricity rate",
+                "value": 5,
+                "unit": "%"
+            },
+            {
+                "id": 11,
+                "type": "item",
+                "label": "Increase in electricity usage",
+                "value": 5,
+                "unit": "%"
+            },
+            {
+                "id": 12,
+                "type": "item",
+                "label": "Feed-in tariff",
+                "value": 5,
+                "unit": "ct/kWh"
+            },
+            {
+                "id": 13,
+                "type": "item",
+                "label": "Decrease in feed-in tariff",
+                "value": 5,
+                "unit": "%"
+            }
+        ]
+    },
+    "pageSeven": {
+      "items": [
+        {
+            "id": 0,
+            "type": "category",
+            "label": "Summary"
+        },
+        {
+            "id": 1,
+            "type": "item",
+            "label": "Annual DC output",
+            "value": 3000,
+            "unit": "kWh"
+        },
+        {
+            "id": 2,
+            "type": "item",
+            "label": "Annual AC output",
+            "value": 2900,
+            "unit": "kWh"
+        },
+        {
+            "id": 3,
+            "type": "item",
+            "label": "Annual consumption",
+            "value": 2900,
+            "unit": "kWh"
+        }
+      ],
+      "graphs": [
+        {
+            "id": 0,
+            "series": [12, 15, 44, 3],
+            "chartOptions": {
+                "labels": ["to grid", "to battery", "consumed directly", "wasted"]
+            }
+        },
+        {
+            "id": 1,
+            "series": [15, 37, 54, 10],
+            "chartOptions": {
+                "labels": ["E", "F", "G", "H"]
+            }
+        }
+      ]
+    }
+}
